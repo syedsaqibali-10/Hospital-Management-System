@@ -597,5 +597,3 @@ tree_med_record.pack(fill="both", expand=True)
 ttk.Button(tab_med_record, text="View Medical Records", command=view_medical_records).pack(pady=10)
 
 root.mainloop()
-
-
